@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Sketch and Figma design files
+*.sketch
+*.fig
+*.xd
+
+.DS_Store
+.prettierignore
+
